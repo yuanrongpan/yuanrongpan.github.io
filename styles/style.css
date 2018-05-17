@@ -1,10 +1,10 @@
-h3,a{
+h3,a, li{
 	font-size: 20px;
 	text-align: left;
 	margin: 0;
 	padding: 20px 0;
-	color:white;
-	text-shadow: 3px 3px 1px black;
+	color:black;
+	text-shadow: 1px 1px 1px black;
 }
 
 p{
@@ -14,10 +14,10 @@ p{
 	text-align: center;
 }
 html{
-	background-color: #000000;
+	background-color: #FFFFFF;
 }
 body{
-	color: white;
+	color: black;
 }
 img {
 	display: block;
